@@ -1,10 +1,14 @@
 [
     {
         "name":"website",
-        "url":"hrst.in"
+        "url":"https://hrst.in"
     },
     {
         "name" : "ig",
-        "url":"ig.hrst.in"
+        "url":"http://ig.hrst.in"
+    },
+    {
+        "name" : "resume",
+        "url" : "http://resume.hrst.in"
     }
 ]
