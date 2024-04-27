@@ -1,54 +1,6 @@
 [
     {
-        "name": "gh",
-        "url": "https://github.com/pr0PM"
-    },
-    {
-        "name": "cv",
-        "url": "https://drive.google.com/file/d/1-py2AEvNE5u1zRdZLdKTOW_s4AafoaKe/view"
-    },
-    {
-        "name": "tg",
-        "url": "https://t.me/pr0PM"
-    },
-    {
-        "name": "dev",
-        "url": "https://dev.to/pr0PM"
-    },
-    {
-        "name": "tw",
-        "url": "https://twitter.com/MP0rp"
-    },
-    {
-        "name": "pw",
-        "url": "https://polywork.com/pr0pm"
-    },
-    {
-        "name": "angel",
-        "url": "https://angel.co/pr0pm"
-    },
-    {
-        "name": "slides",
-        "url": "https://speakerdeck.com/pr0pm"
-    },
-    {
-        "name": "tc",
-        "url": "https://www.twitch.tv/popout/prat__k/chat?popout"
-    },
-    {
-        "name": "tv",
-        "url": "https://www.twitch.tv/prat__k/"
-    },
-    {
-        "name": "ln",
-        "url": "https://linkedin.com/in/pr0pm/"
-    },
-    {
-        "name": "",
-        "url": "https://pr0pm.in"
-    },
-    {
-        "name": "wow24",
-        "url": "https://docs.google.com/presentation/d/1cl0EczeEn0whhqY8uVauuFwQIimU9GfgiHO4RqGWh20/edit?usp=sharing"
+        "name":"website",
+        "url":"hrst.in"
     }
 ]
